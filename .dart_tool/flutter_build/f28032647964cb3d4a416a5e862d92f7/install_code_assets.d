@@ -1,0 +1,1 @@
+ E:\\vsCode\\minimal_ecommerce\\minimal_ecommerce\\.dart_tool\\flutter_build\\f28032647964cb3d4a416a5e862d92f7\\native_assets.json: 
